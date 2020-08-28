@@ -1,0 +1,192 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="f335c01e-7889-4513-9dfd-207085e47d4c" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="TypeScript JSX File" />
+        <option value="TypeScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../../.." />
+  </component>
+  <component name="ProjectId" id="1fLjFmaHBleaaLNOdVWYDxYE0QN" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../../PROJECTS/untitled5" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="nodejs_interpreter_path" value="node" />
+    <property name="nodejs_package_manager_path" value="yarn" />
+    <property name="settings.editor.selected.configurable" value="preferences.externalTools" />
+    <property name="ts.external.directory.path" value="E:\Download\JavaScript\-IT-ICUBATOR\Dimich-lessons\it-kamasutra-examples\node_modules\typescript\lib" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="E:\Download\JavaScript\-IT-ICUBATOR\Dimich-lessons\it-kamasutra-examples\src\components\UncontrolledRating" />
+      <recent name="E:\Download\JavaScript\-IT-ICUBATOR\Dimich-lessons\it-kamasutra-examples\src\components\UncontrolledAccordion" />
+      <recent name="E:\Download\JavaScript\-IT-ICUBATOR\Dimich-lessons\it-kamasutra-examples\src\components\Rating" />
+      <recent name="E:\Download\JavaScript\-IT-ICUBATOR\Dimich-lessons\it-kamasutra-examples\src\components\OnOff" />
+      <recent name="E:\Download\JavaScript\-IT-ICUBATOR\Dimich-lessons\it-kamasutra-examples\src\components\Accordion" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\Download\JavaScript\-IT-ICUBATOR\Dimich-lessons\it-kamasutra-examples\src\components" />
+      <recent name="E:\Download\JavaScript\PROJECTS\it-kamasutra-examples\src\components" />
+    </key>
+  </component>
+  <component name="RunManager" selected="npm.npm start">
+    <configuration name="Debug Application" type="JavascriptDebugType" uri="http://localhost:3000">
+      <method v="2" />
+    </configuration>
+    <configuration name="npm start" type="js.build_tools.npm">
+      <package-json value="$PROJECT_DIR$/package.json" />
+      <command value="run" />
+      <scripts>
+        <script value="start" />
+      </scripts>
+      <node-interpreter value="project" />
+      <envs />
+      <method v="2" />
+    </configuration>
+    <configuration name="storybook" type="js.build_tools.npm" temporary="true" nameIsGenerated="true">
+      <package-json value="$PROJECT_DIR$/package.json" />
+      <command value="run" />
+      <scripts>
+        <script value="storybook" />
+      </scripts>
+      <node-interpreter value="project" />
+      <envs />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="npm.storybook" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="f335c01e-7889-4513-9dfd-207085e47d4c" name="Default Changelist" comment="" />
+      <created>1596004165555</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1596004165555</updated>
+      <workItem from="1596004169220" duration="1204000" />
+      <workItem from="1596026882507" duration="241000" />
+      <workItem from="1596090947991" duration="15681000" />
+      <workItem from="1596193078266" duration="1692000" />
+      <workItem from="1596212641046" duration="605000" />
+      <workItem from="1596267022843" duration="611000" />
+      <workItem from="1596295929342" duration="3016000" />
+      <workItem from="1596369774408" duration="1485000" />
+      <workItem from="1596433778297" duration="4304000" />
+      <workItem from="1596537616247" duration="338000" />
+      <workItem from="1596538154872" duration="11000" />
+      <workItem from="1596538329570" duration="231000" />
+      <workItem from="1596538859504" duration="130000" />
+      <workItem from="1596608481715" duration="16395000" />
+      <workItem from="1596730953566" duration="1517000" />
+      <workItem from="1596784422575" duration="598000" />
+      <workItem from="1597303697290" duration="3897000" />
+      <workItem from="1597391415218" duration="171000" />
+      <workItem from="1598527412309" duration="3311000" />
+      <workItem from="1598555761956" duration="930000" />
+      <workItem from="1598592874606" duration="1921000" />
+      <workItem from="1598595731615" duration="2167000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="2" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <ignored-roots>
+      <path value="$PROJECT_DIR$/../.." />
+    </ignored-roots>
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="451" y="193" key="#com.intellij.tools.ToolEditorDialog" timestamp="1598556081912">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="451" y="193" key="#com.intellij.tools.ToolEditorDialog/0.0.1366.728@0.0.1366.728" timestamp="1598556081912" />
+    <state x="463" y="118" key="FileChooserDialogImpl" timestamp="1596652109573">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="463" y="118" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1596652109573" />
+    <state width="1343" height="178" key="GridCell.Tab.0.bottom" timestamp="1598597465905">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1343" height="178" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1598597465905" />
+    <state width="1343" height="178" key="GridCell.Tab.0.center" timestamp="1598597465904">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1343" height="178" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1598597465904" />
+    <state width="1343" height="178" key="GridCell.Tab.0.left" timestamp="1598597465904">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1343" height="178" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1598597465904" />
+    <state width="1343" height="178" key="GridCell.Tab.0.right" timestamp="1598597465904">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1343" height="178" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1598597465904" />
+    <state x="184" y="8" key="SettingsEditor" timestamp="1598556083686">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="184" y="8" key="SettingsEditor/0.0.1366.728@0.0.1366.728" timestamp="1598556083686" />
+    <state x="346" y="49" width="672" height="678" key="search.everywhere.popup" timestamp="1598556038838">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="346" y="49" width="672" height="678" key="search.everywhere.popup/0.0.1366.728@0.0.1366.728" timestamp="1598556038838" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://$PROJECT_DIR$/src/stories/Button.stories.tsx</url>
+          <line>2</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
