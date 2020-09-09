@@ -38,4 +38,36 @@ export const GetValueOfInputByButtonPress = () => {
     </>
 }
 
+export const ControlledInput = () => {
+    const [parentValue, setParentValue] = useState('')
+    const onInputChange = (e: ChangeEvent<HTMLInputElement>) => {
+        setParentValue(e.currentTarget.value)
+    }
+
+    return <input value={parentValue} onChange={onInputChange}/>
+}
+
+export const ControlledCheckbox = () => {
+    const [parentValue, setParentValue] = useState(false)
+    const onInputChange = (e: ChangeEvent<HTMLInputElement>) => {
+        setParentValue(e.currentTarget.checked)
+    }
+
+    return <input type={'checkbox'} checked={parentValue} onChange={onInputChange}/>
+}
+
+export const ControlledSelect = () => {
+    const [parentValue, setParentValue] = useState<string | undefined>('1')
+    const onSelectChange = (e: ChangeEvent<HTMLSelectElement>) => {
+        setParentValue(e.currentTarget.value)
+    }
+
+    return <select value={parentValue} onChange={onSelectChange}>
+        <option>none</option>
+        <option value={'1'}>Grodno</option>
+        <option value={'2'}>Minsk</option>
+        <option value={'3'}>Brest</option>
+        </select>
+}
+
 export const ControlledInputWithFixedValues = () => <input value={'Enter text'}/>
