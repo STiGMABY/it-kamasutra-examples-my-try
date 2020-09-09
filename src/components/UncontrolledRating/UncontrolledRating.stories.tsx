@@ -1,19 +1,18 @@
 import React, {useState} from 'react';
-import Rating, {RatingValueType} from "./Rating";
+import {UncontrolledRating, RatingValueType} from "./UncontrolledRating";
+import {action} from "@storybook/addon-actions";
 
 export default {
-    title: 'Rating',
-    component: Rating,
+    title: 'UncontrolledRating',
+    component: UncontrolledRating,
 }
 
-export const RatingEmpty = () => <Rating value={0} onClick={x=>x} />;
-export const Rating1 = () => <Rating value={1} onClick={x=>x} />;
-export const Rating2 = () => <Rating value={2} onClick={x=>x} />;
-export const Rating3= () => <Rating value={3} onClick={x=>x} />;
-export const Rating4 = () => <Rating value={4} onClick={x=>x} />;
-export const Rating5 = () => <Rating value={5} onClick={x=>x} />;
+const callback = action('rating changed inside component')
 
-export const ChangeRating = () => {
-    const [rating, setRating] = useState<RatingValueType>(2)
-    return <Rating value={rating} onClick={setRating} />
-}
+export const RatingEmpty = () => <UncontrolledRating defaultValue={0} onChange={callback}/>;
+export const Rating1 = () => <UncontrolledRating defaultValue={1} onChange={callback} />;
+export const Rating2 = () => <UncontrolledRating defaultValue={2} onChange={callback} />;
+export const Rating3= () => <UncontrolledRating defaultValue={3} onChange={callback}  />;
+export const Rating4 = () => <UncontrolledRating defaultValue={4} onChange={callback} />;
+export const Rating5 = () => <UncontrolledRating defaultValue={5} onChange={callback} />;
+
