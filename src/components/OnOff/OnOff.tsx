@@ -5,7 +5,7 @@ type PropsType = {
     onChange: (on: boolean)=> void
 }
 
-function OnOff(props: PropsType) {
+export function OnOff(props: PropsType) {
 
     const onStyle = {
         width: '30px',
@@ -39,9 +39,7 @@ function OnOff(props: PropsType) {
         <div>
             <div style={onStyle} onClick={ ()=> { props.onChange(true) }}>On</div>
             <div style={offStyle} onClick={ ()=> { props.onChange(false) }}>Off</div>
-            <div style={indicatorStyle}></div>
+            <div style={indicatorStyle} ></div>
         </div>
     )
 }
-
-export default OnOff

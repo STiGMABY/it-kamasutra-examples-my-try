@@ -10,7 +10,17 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="f335c01e-7889-4513-9dfd-207085e47d4c" name="Default Changelist" comment="" />
+    <list default="true" id="f335c01e-7889-4513-9dfd-207085e47d4c" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/components/Accordion/Accordion.stories.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/OnOff/OnOff.stories.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/Rating/Rating.stories.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.storybook/main.js" beforeDir="false" afterPath="$PROJECT_DIR$/.storybook/main.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/App.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/Accordion/Accordion.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Accordion/Accordion.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/OnOff/OnOff.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/OnOff/OnOff.tsx" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -19,13 +29,13 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="TypeScript JSX File" />
         <option value="TypeScript File" />
+        <option value="TypeScript JSX File" />
       </list>
     </option>
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../../.." />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="1fLjFmaHBleaaLNOdVWYDxYE0QN" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -37,26 +47,31 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../../PROJECTS/untitled5" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/components/Accordion" />
     <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.standard" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.standard" value="project" />
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.standard" value="" />
     <property name="nodejs_interpreter_path" value="node" />
     <property name="nodejs_package_manager_path" value="yarn" />
-    <property name="settings.editor.selected.configurable" value="preferences.externalTools" />
+    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
     <property name="ts.external.directory.path" value="E:\Download\JavaScript\-IT-ICUBATOR\Dimich-lessons\it-kamasutra-examples\node_modules\typescript\lib" />
   </component>
   <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\Download\JavaScript\-IT-ICUBATOR\Dimich-lessons\it-kamasutra-examples\src\components\Accordion" />
+      <recent name="E:\Download\JavaScript\-IT-ICUBATOR\Dimich-lessons\it-kamasutra-examples\src\components\OnOff" />
+      <recent name="E:\Download\JavaScript\-IT-ICUBATOR\Dimich-lessons\it-kamasutra-examples\src\components" />
+      <recent name="E:\Download\JavaScript\PROJECTS\it-kamasutra-examples\src\components" />
+    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="E:\Download\JavaScript\-IT-ICUBATOR\Dimich-lessons\it-kamasutra-examples\src\components\UncontrolledRating" />
       <recent name="E:\Download\JavaScript\-IT-ICUBATOR\Dimich-lessons\it-kamasutra-examples\src\components\UncontrolledAccordion" />
       <recent name="E:\Download\JavaScript\-IT-ICUBATOR\Dimich-lessons\it-kamasutra-examples\src\components\Rating" />
       <recent name="E:\Download\JavaScript\-IT-ICUBATOR\Dimich-lessons\it-kamasutra-examples\src\components\OnOff" />
       <recent name="E:\Download\JavaScript\-IT-ICUBATOR\Dimich-lessons\it-kamasutra-examples\src\components\Accordion" />
-    </key>
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="E:\Download\JavaScript\-IT-ICUBATOR\Dimich-lessons\it-kamasutra-examples\src\components" />
-      <recent name="E:\Download\JavaScript\PROJECTS\it-kamasutra-examples\src\components" />
     </key>
   </component>
   <component name="RunManager" selected="npm.npm start">
@@ -120,7 +135,8 @@
       <workItem from="1598527412309" duration="3311000" />
       <workItem from="1598555761956" duration="930000" />
       <workItem from="1598592874606" duration="1921000" />
-      <workItem from="1598595731615" duration="2167000" />
+      <workItem from="1598595731615" duration="2425000" />
+      <workItem from="1599630508700" duration="11473000" />
     </task>
     <servers />
   </component>
@@ -142,9 +158,14 @@
   <component name="VcsManagerConfiguration">
     <ignored-roots>
       <path value="$PROJECT_DIR$/../.." />
+      <path value="$PROJECT_DIR$/../../.." />
     </ignored-roots>
   </component>
   <component name="WindowStateProjectService">
+    <state x="550" y="273" key="#ESLint" timestamp="1599634901367">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="550" y="273" key="#ESLint/0.0.1366.728@0.0.1366.728" timestamp="1599634901367" />
     <state x="451" y="193" key="#com.intellij.tools.ToolEditorDialog" timestamp="1598556081912">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
@@ -153,26 +174,26 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="463" y="118" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1596652109573" />
-    <state width="1343" height="178" key="GridCell.Tab.0.bottom" timestamp="1598597465905">
+    <state width="1343" height="238" key="GridCell.Tab.0.bottom" timestamp="1599648798587">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1343" height="178" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1598597465905" />
-    <state width="1343" height="178" key="GridCell.Tab.0.center" timestamp="1598597465904">
+    <state width="1343" height="238" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1599648798587" />
+    <state width="1343" height="238" key="GridCell.Tab.0.center" timestamp="1599648798586">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1343" height="178" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1598597465904" />
-    <state width="1343" height="178" key="GridCell.Tab.0.left" timestamp="1598597465904">
+    <state width="1343" height="238" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1599648798586" />
+    <state width="1343" height="238" key="GridCell.Tab.0.left" timestamp="1599648798586">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1343" height="178" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1598597465904" />
-    <state width="1343" height="178" key="GridCell.Tab.0.right" timestamp="1598597465904">
+    <state width="1343" height="238" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1599648798586" />
+    <state width="1343" height="238" key="GridCell.Tab.0.right" timestamp="1599648798587">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1343" height="178" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1598597465904" />
-    <state x="184" y="8" key="SettingsEditor" timestamp="1598556083686">
+    <state width="1343" height="238" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1599648798587" />
+    <state x="184" y="8" key="SettingsEditor" timestamp="1599630588005">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="184" y="8" key="SettingsEditor/0.0.1366.728@0.0.1366.728" timestamp="1598556083686" />
+    <state x="184" y="8" key="SettingsEditor/0.0.1366.728@0.0.1366.728" timestamp="1599630588005" />
     <state x="346" y="49" width="672" height="678" key="search.everywhere.popup" timestamp="1598556038838">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
