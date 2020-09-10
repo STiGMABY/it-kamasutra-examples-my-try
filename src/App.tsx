@@ -26,10 +26,16 @@ function App() {
             {/*Rating tsx:*/}
             {/*<Rating value={ratingValue} onClick={setRatingValue}/>*/}
 
-            {/*<Accordion titleValue={'Menu'}*/}
-            {/*           collapsed={accordionCollapsed}*/}
-            {/*           onChange={ ()=> { setAccordionCollapsed(!accordionCollapsed) } }*/}
-            {/*/>*/}
+            <Accordion titleValue={'Menu'}
+                       collapsed={accordionCollapsed}
+                       onChange={ ()=> { setAccordionCollapsed(!accordionCollapsed) } }
+                       items={[
+                           {title: 'Andrei', value: 1},
+                           {title: 'Lera', value: 2},
+                           {title: 'Musia', value: 3}
+                       ]}
+                       onClick={ value => {}}
+            />
             {/*Рейтинг 2:*/}
             {/*<Rating value={0}/>*/}
             {/*<Rating value={1}/>*/}

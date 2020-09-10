@@ -11,8 +11,12 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="f335c01e-7889-4513-9dfd-207085e47d4c" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/Select/Select.stories.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Select/Select.tsx" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/stories/input.stories.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/stories/input.stories.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/App.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/Accordion/Accordion.stories.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Accordion/Accordion.stories.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/Accordion/Accordion.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Accordion/Accordion.tsx" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -40,7 +44,7 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/components/UncontrolledRating" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/Select" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.standard" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
@@ -53,19 +57,19 @@
     <property name="ts.external.directory.path" value="E:\Download\JavaScript\-IT-ICUBATOR\Dimich-lessons\it-kamasutra-examples\node_modules\typescript\lib" />
   </component>
   <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\Download\JavaScript\-IT-ICUBATOR\Dimich-lessons\it-kamasutra-examples\src\Select" />
+      <recent name="E:\Download\JavaScript\-IT-ICUBATOR\Dimich-lessons\it-kamasutra-examples\src\components\UncontrolledRating" />
+      <recent name="E:\Download\JavaScript\-IT-ICUBATOR\Dimich-lessons\it-kamasutra-examples\src\components\UncontrolledOnOff" />
+      <recent name="E:\Download\JavaScript\-IT-ICUBATOR\Dimich-lessons\it-kamasutra-examples\src\components\UncontrolledAccordion" />
+      <recent name="E:\Download\JavaScript\-IT-ICUBATOR\Dimich-lessons\it-kamasutra-examples\src\components\Accordion" />
+    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="E:\Download\JavaScript\-IT-ICUBATOR\Dimich-lessons\it-kamasutra-examples\src\components\UncontrolledRating" />
       <recent name="E:\Download\JavaScript\-IT-ICUBATOR\Dimich-lessons\it-kamasutra-examples\src\components\UncontrolledAccordion" />
       <recent name="E:\Download\JavaScript\-IT-ICUBATOR\Dimich-lessons\it-kamasutra-examples\src\components\Rating" />
       <recent name="E:\Download\JavaScript\-IT-ICUBATOR\Dimich-lessons\it-kamasutra-examples\src\components\OnOff" />
       <recent name="E:\Download\JavaScript\-IT-ICUBATOR\Dimich-lessons\it-kamasutra-examples\src\components\Accordion" />
-    </key>
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="E:\Download\JavaScript\-IT-ICUBATOR\Dimich-lessons\it-kamasutra-examples\src\components\UncontrolledRating" />
-      <recent name="E:\Download\JavaScript\-IT-ICUBATOR\Dimich-lessons\it-kamasutra-examples\src\components\UncontrolledOnOff" />
-      <recent name="E:\Download\JavaScript\-IT-ICUBATOR\Dimich-lessons\it-kamasutra-examples\src\components\UncontrolledAccordion" />
-      <recent name="E:\Download\JavaScript\-IT-ICUBATOR\Dimich-lessons\it-kamasutra-examples\src\components\Accordion" />
-      <recent name="E:\Download\JavaScript\-IT-ICUBATOR\Dimich-lessons\it-kamasutra-examples\src\components\OnOff" />
     </key>
   </component>
   <component name="RunManager" selected="npm.npm start">
@@ -132,7 +136,8 @@
       <workItem from="1598595731615" duration="2425000" />
       <workItem from="1599630508700" duration="11473000" />
       <workItem from="1599650183687" duration="26000" />
-      <workItem from="1599651032257" duration="14071000" />
+      <workItem from="1599651032257" duration="14719000" />
+      <workItem from="1599719412269" duration="7570000" />
     </task>
     <servers />
   </component>
@@ -170,30 +175,30 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="463" y="118" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1596652109573" />
-    <state width="1343" height="80" key="GridCell.Tab.0.bottom" timestamp="1599654075575">
+    <state width="1343" height="121" key="GridCell.Tab.0.bottom" timestamp="1599720368260">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1343" height="80" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1599654075575" />
-    <state width="1343" height="80" key="GridCell.Tab.0.center" timestamp="1599654075574">
+    <state width="1343" height="121" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1599720368260" />
+    <state width="1343" height="121" key="GridCell.Tab.0.center" timestamp="1599720368260">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1343" height="80" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1599654075574" />
-    <state width="1343" height="80" key="GridCell.Tab.0.left" timestamp="1599654075574">
+    <state width="1343" height="121" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1599720368260" />
+    <state width="1343" height="121" key="GridCell.Tab.0.left" timestamp="1599720368260">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1343" height="80" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1599654075574" />
-    <state width="1343" height="80" key="GridCell.Tab.0.right" timestamp="1599654075574">
+    <state width="1343" height="121" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1599720368260" />
+    <state width="1343" height="121" key="GridCell.Tab.0.right" timestamp="1599720368260">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1343" height="80" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1599654075574" />
+    <state width="1343" height="121" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1599720368260" />
     <state x="184" y="8" key="SettingsEditor" timestamp="1599630588005">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="184" y="8" key="SettingsEditor/0.0.1366.728@0.0.1366.728" timestamp="1599630588005" />
-    <state x="346" y="49" width="672" height="678" key="search.everywhere.popup" timestamp="1598556038838">
+    <state x="346" y="49" width="672" height="678" key="search.everywhere.popup" timestamp="1599721923133">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="346" y="49" width="672" height="678" key="search.everywhere.popup/0.0.1366.728@0.0.1366.728" timestamp="1598556038838" />
+    <state x="346" y="49" width="672" height="678" key="search.everywhere.popup/0.0.1366.728@0.0.1366.728" timestamp="1599721923133" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
