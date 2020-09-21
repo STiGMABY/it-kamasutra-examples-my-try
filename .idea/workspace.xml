@@ -11,7 +11,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="f335c01e-7889-4513-9dfd-207085e47d4c" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/stories/ReactMemo.stories.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/stories/UseMemo.stories.tsx" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -157,7 +157,7 @@
       <workItem from="1599811641947" duration="6295000" />
       <workItem from="1599846638826" duration="276000" />
       <workItem from="1600667226546" duration="3901000" />
-      <workItem from="1600674117946" duration="1358000" />
+      <workItem from="1600674117946" duration="7097000" />
     </task>
     <servers />
   </component>
